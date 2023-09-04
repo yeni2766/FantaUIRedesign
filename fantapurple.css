@@ -197,7 +197,7 @@ body::-webkit-scrollbar {
 
 	.green {
 		display: flex;
-		background-color:#32cd32;
+		background-color:#a1d782;
 		align-items: center;
 		justify-content: center;
 		animation: righttoleft 0.5s ease forwards;
@@ -591,7 +591,7 @@ body::-webkit-scrollbar {
 
 
 	.box:nth-child(3) {
-		background-color:#32cd32;
+		background-color:#a1d782;
 	}
 
 	.box:nth-child(4) {
@@ -734,7 +734,7 @@ body::-webkit-scrollbar {
 
 	.green {
 		display: flex;
-		background-color:#32cd32;
+		background-color:#a1d782;
 		align-items: center;
 		justify-content: center;
 		animation: righttoleft 0.5s ease forwards;
@@ -1118,7 +1118,7 @@ body::-webkit-scrollbar {
 
 
 	.box:nth-child(3) {
-		background-color:#32cd32;
+		background-color:#a1d782;
 	}
 
 	.box:nth-child(4) {
@@ -1294,7 +1294,7 @@ body::-webkit-scrollbar {
 
 	.green {
 		display: flex;
-		background-color:#32cd32;
+		background-color:#a1d782;
 		align-items: center;
 		justify-content: center;
 		animation: righttoleft 0.5s ease forwards;
@@ -1697,7 +1697,7 @@ body::-webkit-scrollbar {
 
 	.box:nth-child(3) {
 		display: none;
-		background-color:#32cd32;
+		background-color:#a1d782;
 	}
 
 	.box:nth-child(4) {

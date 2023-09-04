@@ -285,7 +285,7 @@ body::-webkit-scrollbar {
 	header {
 		position: fixed;
 		width: 100%;
-		background-color:#32cd32;
+		background-color:#a1d782;
 		/* Your desired background color */
 		padding-top: 0px;
 		height: 0%;
@@ -356,7 +356,7 @@ body::-webkit-scrollbar {
 		align-items: center;
 		height: 0%;
 		width: 100%;
-		background-color:#32cd32;
+		background-color:#a1d782;
 		/* Your desired background color */
 		top: 100%;
 		z-index: 2;
@@ -427,7 +427,7 @@ body::-webkit-scrollbar {
 		flex-direction: column;
 		justify-content: center;
 		align-items: center;
-		height: 100vh;
+		height: 100%;
 		width: 100%;
 		top: 200%;
 		z-index: 5;
@@ -455,6 +455,8 @@ body::-webkit-scrollbar {
 		opacity: 0;
 		transition: 200ms opacity ease-in-out;
 		transition-delay: 200ms;
+		max-height: 100%;
+		margin:0;
 
 	}
 
@@ -585,7 +587,7 @@ body::-webkit-scrollbar {
 
 
 	.box:nth-child(3) {
-		background-color:#32cd32;
+		background-color:#a1d782;
 
 	}
 
@@ -949,7 +951,7 @@ body::-webkit-scrollbar {
 		flex-direction: column;
 		justify-content: center;
 		align-items: center;
-		height: 100vh;
+		height: 100%;
 		width: 100%;
 		top: 200%;
 		z-index: 5;
@@ -1110,7 +1112,7 @@ body::-webkit-scrollbar {
 
 
 	.box:nth-child(3) {
-		background-color:#32cd32;
+		background-color:#a1d782;
 	}
 
 	.box:nth-child(4) {
@@ -1684,7 +1686,7 @@ body::-webkit-scrollbar {
 
 	.box:nth-child(3) {
 		display: none;
-		background-color:#32cd32;
+		background-color:#a1d782;
 	}
 
 	.box:nth-child(4) {
