@@ -952,7 +952,7 @@ body::-webkit-scrollbar {
 		flex-direction: column;
 		justify-content: center;
 		align-items: center;
-		height: 100vh;
+		height: 100%;
 		width: 100%;
 		top: 200%;
 		z-index: 5;
