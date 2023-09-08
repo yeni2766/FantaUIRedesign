@@ -2,7 +2,6 @@
 
 # Fanta UI Redesign
 
-![Project Screenshot](screenshot.png)
 
 Welcome to the Fanta UI Redesign project! This project focuses on enhancing the user interface and overall aesthetics of the Fanta website. It showcases my web development skills and my commitment to creating visually appealing and user-friendly web experiences.
 
@@ -47,8 +46,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Contact
 
 If you have any questions or suggestions, feel free to contact me:
-- Email: [your@email.com](mailto:yeni8200@email.com)
-- GitHub: [yourGitHubUsername](https://github.com/yourGitHubUsername)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/your-name/)
+- Email: [yeni8200@email.com](mailto:yeni8200@email.com)
+- GitHub: [yeni2766](https://github.com/yeni2766)
 
 Thank you for visiting the Fanta UI Redesign project!
